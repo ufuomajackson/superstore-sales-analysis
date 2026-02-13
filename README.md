@@ -1,2 +1,47 @@
 # superstore-sales-analysis
 Data analysis dashboard visualizing sales, profit, discounts, and KPIs using Super Store dataset.
+Super Store Sales Analysis Dashboard
+📊 Project Overview
+
+This project presents an interactive dashboard analyzing sales performance using the Super Store dataset. The dashboard provides insights into revenue, profit, discounts, and customer purchasing patterns.
+
+🎯 Objectives
+
+Analyze overall sales performance
+
+Identify profit trends across regions
+
+Evaluate discount impact
+
+Examine sub-category performance
+
+Track key business KPIs
+
+📈 Key Insights
+
+Sales distribution across states and regions
+
+Profit analysis by city
+
+Discount patterns by segment
+
+Sub-category sales comparison
+
+KPI metrics (Sales, Profit, Quantity, Discount)
+
+🛠 Tools Used
+
+Power BI 
+
+Data Cleaning
+
+Data Visualization
+
+Business Intelligence Techniques
+✅ Skills Demonstrated
+
+✔ Data Analysis
+✔ Data Visualization
+✔ Business Insight Generation
+✔ KPI Reporting
+✔ Dashboard Design
