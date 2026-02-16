@@ -15,6 +15,11 @@ Evaluate discount impact
 
 Examine sub-category performance
 
+
+
+
+![Super_store](https://github.com/user-attachments/assets/2dc00def-37d9-4b7c-9d1b-1c1fdcc3f87c)
+
 Track key business KPIs
 
 📈 Key Insights
